@@ -8,7 +8,18 @@
 
 
 
-Hi, I'm Md Hossahin, a passionate Full-Stack Web Developer.<br>I'm focused on building responsive, scalable, and high-performance web applications.<br><br>Tech I work with: <br>HTML • CSS • JavaScript • React • MongoDB • Firebase • Tailwind CSS • Node.js<br><br>Currently learning: Next.js, GSAP, and modern web development tools.<br><br>I specialize in crafting intuitive interfaces, smooth animations, and fast, responsive user experiences.<br>
+# Hi, I'm Md Hossahin 👋
+
+I'm a passionate Full-Stack Web Developer focused on building responsive, scalable, and high-performance web applications.
+
+## Tech I work with
+HTML • CSS • JavaScript • React • MongoDB • Firebase • Tailwind CSS • Node.js
+
+## Currently learning
+Next.js, GSAP, and modern web development tools.
+
+I specialize in crafting intuitive interfaces, smooth animations, and fast, responsive user experiences.
+
 
 ## 🌐 Socials:
 
