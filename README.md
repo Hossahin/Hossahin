@@ -8,7 +8,8 @@ Hi, I'm Md Hossahin, a passionate Full-Stack Web Developer.<br>I'm focused on bu
 
 # 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/-HTML5-FCEDE9?style=flat&logo=html5&logoColor=E34F26&color=A63013)
+![HTML5](https://img.shields.io/badge/-HTML5-FEFBFB?style=flat&logo=html5&logoColor=E34F26&color=A63013)
+
 
 ![CSS3](https://img.shields.io/badge/-CSS3-EAF5FF?style=flat&logo=css3&logoColor=1572B6&color=0B3B6E)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFBEB?style=flat&logo=javascript&logoColor=F7DF1E&color=B28900)
