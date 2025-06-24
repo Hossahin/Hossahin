@@ -1,5 +1,12 @@
 # 💫 About Me:
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md+Hossahin....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
 Hi, I'm Md Hossahin, a passionate Full-Stack Web Developer.<br>I'm focused on building responsive, scalable, and high-performance web applications.<br><br>Tech I work with: <br>HTML • CSS • JavaScript • React • MongoDB • Firebase • Tailwind CSS • Node.js<br><br>Currently learning: Next.js, GSAP, and modern web development tools.<br><br>I specialize in crafting intuitive interfaces, smooth animations, and fast, responsive user experiences.<br>
 
 ## 🌐 Socials:
