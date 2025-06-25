@@ -25,7 +25,7 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EAqAx6uwXm)
 
-# 💻 Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-FEFBFB?style=flat&logo=html5&logoColor=E34F26&color=A63013)
 ![CSS3](https://img.shields.io/badge/-CSS3-EAF5FF?style=flat&logo=css3&logoColor=1572B6&color=0B3B6E)
