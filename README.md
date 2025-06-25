@@ -21,9 +21,7 @@ Next.js, GSAP, and modern web development tools.
 I specialize in crafting intuitive interfaces, smooth animations, and fast, responsive user experiences.
 
 
-# <img src="https://media2.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif?cid=ecf05e47vw5pjwzviy6nzkkaciv3w5zdsr1qx3hf15m07qln&rid=giphy.gif" width="32" alt="Animated Earth icon"> Earth Vibes
-
-
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EAqAx6uwXm)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack:
