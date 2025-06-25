@@ -59,13 +59,14 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
-
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Hossahin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Hossahin&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossahin&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hossahin&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
 ## 🏆 GitHub Trophies
 
