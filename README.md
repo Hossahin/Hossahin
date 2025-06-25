@@ -21,7 +21,7 @@ Next.js, GSAP, and modern web development tools.
 I specialize in crafting intuitive interfaces, smooth animations, and fast, responsive user experiences.
 
 
-## 🌐 Socials:
+# <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="32" alt="Animated Earth icon"> Global Connections Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EAqAx6uwXm)
 
