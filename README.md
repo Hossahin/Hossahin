@@ -28,19 +28,38 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 
 <br>
 <p align="center">
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/CSS.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/JavaScript.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/TailwindCSS.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/React.png"/>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/CSS.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/JavaScript.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/TailwindCSS.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/React.png" style="height: 40px;" />
+  </span>
 </p>
 
 <p align="center">
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/Firebase.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/NodeJs.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/ExpressJs.png"/>
-<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/MongoDB.png"/>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/Firebase.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/NodeJs.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/ExpressJs.png" style="height: 40px;" />
+  </span>
+  <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/MongoDB.png" style="height: 40px;" />
+  </span>
 </p>
+
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
 
