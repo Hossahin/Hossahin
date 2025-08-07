@@ -29,7 +29,7 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 <br>
 <p align="center">
   <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
-    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png" style="height: 80px;" />
+    <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png" style="height: 100px; background-color: red;" />
   </span>
   <span style="display: inline-block; padding: 16px; background-color: #1a202c; border-radius: 8px; margin: 6px;">
     <img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/CSS.png" style="height: 100px;" />
