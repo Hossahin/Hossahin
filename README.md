@@ -28,7 +28,18 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 
 <br>
 <p align="center">
-<img src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/HTML.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/CSS.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/JavaScript.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/TailwindCSS.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/React.png"/>
+</p>
+
+<p align="center">
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/Firebase.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/NodeJs.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/ExpressJs.png"/>
+<img style="padding: 16px; background-color: #1a202c;" src="https://github.com/Hossahin/Hossahin/blob/main/Photo/Stack/MongoDB.png"/>
 </p>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats:
