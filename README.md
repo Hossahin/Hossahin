@@ -23,6 +23,7 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EAqAx6uwXm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossahin/)
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technologies that I know:
 
@@ -71,10 +72,6 @@ I specialize in crafting intuitive interfaces, smooth animations, and fast, resp
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Hossahin&icon=0&color=0" /></a>
-</p>
 
 ## 🏆 GitHub Trophies
 
