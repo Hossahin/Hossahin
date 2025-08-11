@@ -8,7 +8,7 @@
 
 # Hi, I'm Md Hossahin 👋
 
-I'm a passionate Full-Stack Web Developer focused on building responsive, scalable, and high-performance web applications.
+I'm a passionate Frontend developer focused on building responsive, scalable, and high-performance web applications.
 
 ## Tech I work with
 
